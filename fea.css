@@ -1,0 +1,7 @@
+input[type="file"] {
+    border: 2px dashed #4CAF50;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: #f9fff9;
+    cursor: pointer;
+}
